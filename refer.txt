@@ -1,0 +1,15 @@
+-> Eveerything lowercase
+-> Space allowed
+
+weight
+volume
+length
+time
+
+generalized units:
+    weight  : grams
+    volume  : mL
+    length  : cm
+    time    : seconds
+
+values of 0 refers that the author didnt define ratio for that particular unit.
